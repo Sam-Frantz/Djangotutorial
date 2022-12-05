@@ -1,1 +1,1 @@
-"# Djangotutorial" 
+"# Djangotutorial working on Gitignore" 
